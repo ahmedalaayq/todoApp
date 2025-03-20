@@ -47,6 +47,3 @@ Developed by **Ahmed Emad**.
 
 For any inquiries or contributions, feel free to reach out!
 
----
-💡 _Feel free to customize this README to fit your project needs!_ 🚀
-
