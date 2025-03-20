@@ -1,16 +1,52 @@
-# todo_app
+# todoApp
 
-A new Flutter project.
+## Overview
+**todoApp** is a simple yet powerful task management application designed to help users efficiently manage their daily tasks. Built using **Flutter**, it provides a seamless and user-friendly experience with essential features like task creation, status updates, and task deletion.
 
-## Getting Started
+## Features
+- 📌 Add new tasks with ease
+- ✅ Mark tasks as completed or pending
+- 🗑️ Delete individual tasks or clear all tasks
+- 📊 Track completed tasks count
+- 🎨 Responsive and clean UI
 
-This project is a starting point for a Flutter application.
+## Screenshots
+Here are some screenshots showcasing the app interface:
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot 1](https://github.com/ahmedalaayq/todoApp/raw/master/assets/images/screenshots/1.png)
+![Screenshot 2](https://github.com/ahmedalaayq/todoApp/raw/master/assets/images/screenshots/2.png)
+![Screenshot 3](https://github.com/ahmedalaayq/todoApp/raw/master/assets/images/screenshots/3.png)
+![Screenshot 4](https://github.com/ahmedalaayq/todoApp/raw/master/assets/images/screenshots/4.png)
+![Screenshot 5](https://github.com/ahmedalaayq/todoApp/raw/master/assets/images/screenshots/5.png)
+![Screenshot 6](https://github.com/ahmedalaayq/todoApp/raw/master/assets/images/screenshots/6.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
+To run this app locally, follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/ahmedalaayq/todoApp.git
+   cd todoApp
+   ```
+2. **Install dependencies:**
+   ```sh
+   flutter pub get
+   ```
+3. **Run the app:**
+   ```sh
+   flutter run
+   ```
+
+## Technologies Used
+- **Flutter** for UI development
+- **Dart** as the programming language
+- **Material Design** for styling
+
+## Author
+Developed by **Ahmed Emad**.
+
+For any inquiries or contributions, feel free to reach out!
+
+---
+💡 _Feel free to customize this README to fit your project needs!_ 🚀
+
